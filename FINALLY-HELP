@@ -1,0 +1,10 @@
+"finally" is an assembly executable which provides support for checking the generated output by the user program with the provided output file(output.txt).
+Input is provided by a file(input.txt)
+FORMAT FOR TESTING YOUR SOLUTION
+command - ./finally <your program> eg. ./finally test.c
+If the program compiles successfully and all its generated output matches with that of output.txt then its gievs correct answer
+
+TODO:
+The code is still in building phase. So, there are many things still to be done.
+
+FEEL FREE TO ADD ISSUES
