@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 =======
 LearnCode
 =========
@@ -24,4 +22,5 @@ References
 
 [1] http://topcoder.com
 [2] http://codeforces.com
->>>>>>> 4b43744dce6e63127a28b002635ba2448fe4742e
+
+
